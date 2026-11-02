@@ -1,0 +1,4 @@
+*.ros
+*.rosz
+.DS_Store
+Thumbs.db

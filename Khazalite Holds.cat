@@ -1,0 +1,1289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" name="Khazalite Holds" id="436d46e0-3cf8-4c4f-9e9b-00b5e0726efa" battleScribeVersion="2.03" gameSystemId="6f43c96e-d6ac-49b4-8a36-0dd9c959c2af" gameSystemRevision="1" revision="1" library="false" type="catalogue">
+  <categoryEntries>
+    <categoryEntry name="HERO" id="6efc7105-e25b-4f9f-bd9a-3b73075cd402" hidden="false" />
+    <categoryEntry name="INFANTRY" id="192028a0-5459-4015-878e-ad5e84da6f7e" hidden="false" />
+    <categoryEntry name="CAVALRY" id="ebf5fcd5-2797-4d84-866a-5886e9d7828c" hidden="false" />
+    <categoryEntry name="MONSTER" id="9c636774-2944-466a-a5d0-c9b88ce532d8" hidden="false" />
+    <categoryEntry name="WAR MACHINE" id="4084f492-92de-4d0a-96bf-13efc0400068" hidden="false" />
+    <categoryEntry name="UNIQUE" id="edb93ff4-c7bb-4c58-9fda-6e5bc7f08ba0" hidden="false" />
+    <categoryEntry name="WIZARD" id="76caecfb-9a38-4a21-b153-88350b01b121" hidden="false" />
+    <categoryEntry name="PRIEST" id="4254fce2-c43c-445d-9fc6-82b87b77fbd2" hidden="false" />
+    <categoryEntry name="GENERAL" id="06902ac8-0414-42b8-afd4-df3db4187399" hidden="false" />
+    <categoryEntry name="CHROMDRAWN" id="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" hidden="false" />
+    <categoryEntry name="GRIMDRON" id="19b8f7a7-342a-40c2-a794-d8165d797ae0" hidden="false" />
+    <categoryEntry name="ARTILLERY" id="d4dd35e1-e03f-40c4-9e96-10ffbbf34c0f" hidden="false" />
+    <categoryEntry name="REFERENCE" id="f6a878bb-479a-4103-856b-935baf6d6c55" hidden="false" />
+    <categoryEntry name="ARMY RULES" id="a425435a-df5e-4457-b040-ffc6035f2560" hidden="false" />
+  </categoryEntries>
+  <entryLinks>
+    <entryLink name="Faction Rules, Lores &amp; Enhancements" id="2a6f2352-341c-4678-83b7-eeb76fdebe36" hidden="false" import="true" targetId="45e8bf88-204c-4132-a2be-0045c4fb365a" type="selectionEntry" />
+    <entryLink name="High King Valencrom" id="08675825-db5b-4ace-ac76-5a8e10142fcc" hidden="false" import="true" targetId="a31e9ffd-1450-47f9-8cc3-df7ef4c2a38f" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="390" />
+      </costs>
+    </entryLink>
+    <entryLink name="Thrin on War Throne" id="a1a4e932-1340-44b4-95b4-426adf4cb45e" hidden="false" import="true" targetId="0730c648-c25b-44c9-910c-8629d4b73934" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="340" />
+      </costs>
+    </entryLink>
+    <entryLink name="Hilda the Drab-Blood" id="962e40fb-52fe-41f7-9aae-8eb978b15486" hidden="false" import="true" targetId="28f946a0-37eb-4b4d-b776-baa273998ce0" type="selectionEntry" />
+    <entryLink name="Thrin (Foot Hero)" id="5bc78e1c-200c-4a75-b079-bf162b685269" hidden="false" import="true" targetId="0a1b3146-82f4-4321-ae06-632d582d90e9" type="selectionEntry" />
+    <entryLink name="Runewright" id="8a7b11e7-ad3e-464d-b06d-10aeae6b8a6b" hidden="false" import="true" targetId="b825fdd6-a2ab-4547-ade2-8372797018f0" type="selectionEntry" />
+    <entryLink name="Clan Shields" id="3f4c672d-6efc-4a06-bf47-db939af205e6" hidden="false" import="true" targetId="6a828c12-df4e-4a8f-b4ab-f4c49effc8e6" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="220" />
+      </costs>
+    </entryLink>
+    <entryLink name="Clan Gunners (Thunderdrop Rifles)" id="78d1f41f-dddb-4af3-99b5-86091898b3c9" hidden="false" import="true" targetId="b101d1d5-9021-437d-9f3f-10dac880a614" type="selectionEntry" />
+    <entryLink name="Clan Gunners (Thundering Shot Cannons)" id="3f86bbd0-afd7-47e3-b58f-e21133a1e845" hidden="false" import="true" targetId="8851eb8d-b53a-47bd-97ba-2274d7081d5e" type="selectionEntry" />
+    <entryLink name="Valaean Guardians (Shields)" id="74873736-290d-42a8-a8f7-d51ca0a35ca1" hidden="false" import="true" targetId="6083204b-4ef3-4540-8c04-4103f1294589" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="110" />
+      </costs>
+    </entryLink>
+    <entryLink name="Valaean Guardians (Runic Halberds)" id="1465ff13-348d-4c09-8aee-54e19ad12243" hidden="false" import="true" targetId="62fed14c-68d0-451f-b10d-692627c111d0" type="selectionEntry" />
+    <entryLink name="Oathkeeper Cannon" id="40aad8bc-033e-4003-9f03-cbebcf8708a6" hidden="false" import="true" targetId="fa6dfa71-c714-4099-9898-29310efb7cff" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="150" />
+      </costs>
+    </entryLink>
+    <entryLink name="Stonebreaker Mortar" id="b21a805b-32e7-45e3-bac2-637a326d55c7" hidden="false" import="true" targetId="8527f18d-64f7-4fad-b21d-c3a0ffa5b8d7" type="selectionEntry" />
+    <entryLink name="Golems of Gazul" id="c81ca6d0-253f-4734-ac03-6319115f550d" hidden="false" import="true" targetId="4baecf50-0ae9-46e3-9308-fab58b733246" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="210" />
+      </costs>
+    </entryLink>
+    <entryLink name="Golems of Vala" id="d0ca8528-422f-45e9-adc8-11765f988c0a" hidden="false" import="true" targetId="ecdcf061-7a2f-4744-9309-94fd654ca945" type="selectionEntry" />
+    <entryLink name="Auric Runefather on Magmadroth" id="46daeb5e-d380-46ac-95b8-2222e1c14e15" hidden="false" import="true" targetId="67904255-074f-4fe3-a35d-4a0c3f869fc0" type="selectionEntry" />
+    <entryLink name="Auric Runeson on Magmadroth" id="bad784e6-1523-4f55-bd22-aecbdbddbcb4" hidden="false" import="true" targetId="971c9a85-595b-4a99-aa36-4c3a8dbc545c" type="selectionEntry" />
+    <entryLink name="Auric Runesmiter on Magmadroth" id="5bec9a56-0bc1-4706-9af6-8a7f6a5267d2" hidden="false" import="true" targetId="9593857d-eda8-4c63-98cf-1e6a72a2103d" type="selectionEntry" />
+    <entryLink name="Auric Runefather (Foot)" id="f013b5e4-3d77-4fdd-bba1-ad457f73d86c" hidden="false" import="true" targetId="1534854e-639c-48c5-b8f4-db621e0fc90c" type="selectionEntry" />
+    <entryLink name="Auric Runeson (Foot)" id="87c18fbe-f0dd-4a64-8729-736ea40e0374" hidden="false" import="true" targetId="74d4a9af-82a8-451f-9cdd-98314418da3c" type="selectionEntry" />
+    <entryLink name="Auric Runesmiter (Foot)" id="e18d4250-33c4-4393-9293-073119ed5569" hidden="false" import="true" targetId="1e8df6f9-0ae5-4327-be5c-843888fe5b21" type="selectionEntry" />
+    <entryLink name="Auric Flamekeeper" id="a4bd9454-b71a-478c-b54b-3ab534f31191" hidden="false" import="true" targetId="8ecb6e25-18e5-426e-9b19-5b48f15438d7" type="selectionEntry" />
+    <entryLink name="Grimhold Exile" id="6cb9292f-e77d-478c-b70a-8e26bb1afd77" hidden="false" import="true" targetId="39b78a38-2525-4c01-a99f-1dfd9be8901a" type="selectionEntry" />
+    <entryLink name="Vulkyn Flameseekers" id="26e1b840-1853-4d23-8d21-52c1913e46b4" hidden="false" import="true" targetId="eaf60d07-2401-4b0a-ab70-7a8c5767c6b8" type="selectionEntry" />
+    <entryLink name="Auric Hearthguard" id="f66a053a-43a3-4ae8-9d3f-bbca39a89a51" hidden="false" import="true" targetId="2943a319-42d9-4bd9-9652-cffec7567dcc" type="selectionEntry" />
+    <entryLink name="Hearthguard Berzerkers" id="e5f8c4a8-353e-46fc-bf5e-098af6770f5c" hidden="false" import="true" targetId="f762beb2-1df1-49c9-a906-adabfd357002" type="selectionEntry" />
+    <entryLink name="Gotrek Gurnisson" id="4039ca88-bc62-4ea5-b45f-6fb04ebc8162" hidden="false" import="true" targetId="f7841260-ab8f-411c-9e2a-d2b7ff4412fd" type="selectionEntry">
+      <costs>
+        <cost name="pts" typeId="points" value="220" />
+      </costs>
+    </entryLink>
+    <entryLink name="Omir &amp; Ashtongue" id="85c16a6e-687c-413d-8a19-cc50bbea0ffe" hidden="false" import="true" targetId="bbbb2823-2561-49e1-a4cc-9c46487640c1" type="selectionEntry" />
+  </entryLinks>
+  <selectionEntries>
+    <selectionEntry name="Faction Rules, Lores &amp; Enhancements" id="45e8bf88-204c-4132-a2be-0045c4fb365a" hidden="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink name="ARMY RULES" id="79d73d81-c016-460f-8647-dcc45269d052" hidden="false" primary="true" targetId="a425435a-df5e-4457-b040-ffc6035f2560" />
+      </categoryLinks>
+      <rules>
+        <rule name="Throgrim’s Beard" id="6dc6ded3-8cbe-4ae8-8744-b8937575cd57" hidden="false">
+          <description>If your general was destroyed this turn, give up to three friendly Khazalite Holds units one grudge mark each. Otherwise, choose up to three eligible triggers: a friendly unit was destroyed; a friendly Chromdrawn unit contests an objective also contested by an enemy; a friendly Grimdron unit charged, remains in combat, survived and did not destroy an enemy; or damage points were allocated to your general (mark a unit other than the general).</description>
+        </rule>
+        <rule name="Reclaim the Carak" id="5059be40-2750-40c9-b0af-b12380bc09af" hidden="false">
+          <description>Immediately after an opponent gains control of an objective in your territory, give one grudge mark to a friendly Khazalite Holds unit. Each time a friendly unit retreats, after the retreat resolves remove one grudge mark from that unit if it has one.</description>
+        </rule>
+        <rule name="Let It Be Known" id="c8e2805c-7af8-48ae-83ce-a9e626d02c17" hidden="false">
+          <description>Pick a friendly Khazalite Holds hero, then a visible friendly non-hero Khazalite Holds unit within 12 inches. At the start of your next turn, that unit gains one additional grudge mark. Grudge marks are permanent and can stack.</description>
+        </rule>
+        <rule name="Gazul Remembered the Fallen" id="88273bab-9c51-479d-afdf-bf322f0d4d19" hidden="false">
+          <description>While at least half the models in a dwarf Khazalite Holds unit have been slain, add 1 to the Attacks characteristic of its melee weapons. Models slain and later returned do not count as slain.</description>
+        </rule>
+        <rule name="Ancestral Vows" id="de69e68e-2e62-4ae3-ade5-dbbf24cca4cd" hidden="false">
+          <description>There are five vows. Using one prevents you from using another ancestral vow in that battle round. See individual vow entries.</description>
+        </rule>
+        <rule name="We Honor Vala" id="46d5d8a8-eab8-460b-900f-4619648c6840" hidden="false">
+          <description>Pick up to three friendly dwarf Khazalite Holds units in combat. For each, pick an enemy unit in combat as its target. Roll a D3 for each friendly unit and its enemy target: the friendly unit heals that amount and the enemy suffers that many mortal damage. If your unit has the Vala keyword, use 3 instead of a D3. Healing can restore wounds or return models.</description>
+        </rule>
+        <rule name="Engelhide, Our Light in the Darkness" id="190ac917-0c62-425e-a413-f1c3ae3dbe86" hidden="false">
+          <description>Pick up to one friendly non-hero Khazalite Holds infantry unit and up to one friendly Khazalite Holds infantry hero, both wholly within 6 inches of the same terrain feature and not in combat. Remove and set them up again wholly within 6 inches of a terrain feature and more than 9 inches from all enemy units. If two targets are chosen, they must be set up within 3 inches of each other.</description>
+        </rule>
+        <rule name="Grungni’s Stand Firm" id="b155853e-2d4c-4efc-b68c-bde858dc74ff" hidden="false">
+          <description>Pick up to three friendly dwarf Khazalite Holds units. Until the end of the battle round, while a target has not charged this battle round, subtract 1 from the Rend characteristic of melee weapons used for attacks that target it.</description>
+        </rule>
+        <rule name="Grimnir’s Wrath Will Burn Bright" id="828982da-378d-47ba-8148-ebede55d0750" hidden="false">
+          <description>Pick up to three friendly dwarf Khazalite Holds units. Until the end of the battle round, add 1 to wound rolls for the targets’ combat attacks. A target that is a Grimdron infantry unit also has Strike-First if it charged in the same turn.</description>
+        </rule>
+        <rule name="Enlighten Us With Your Wisdom, Grumbrindle" id="efe849fa-cf58-48aa-b001-d335337c4f8f" hidden="false">
+          <description>Until the end of the battle round, add 1 to casting rolls and chanting rolls for friendly Khazalite Holds units. Friendly units wholly within 12 inches of a friendly Khazalite Holds wizard or priest have a 4+ ward save against damage points inflicted by spell abilities, prayer abilities and abilities that use manifestations.</description>
+        </rule>
+        <rule name="Belligerent" id="8f54e541-9da5-4ae8-b2b5-2de4931f1d26" hidden="false">
+          <description>Subtract 3 from the control scores of enemy units while they are in combat with any friendly Khazalite Holds units.</description>
+        </rule>
+        <rule name="Sworn Defenders" id="2abe7c8f-7ebf-4390-8d63-1fa18ed590f9" hidden="false">
+          <description>Subtract 1 from hit rolls for shooting attacks that target friendly Khazalite Holds units while the target is wholly within friendly territory or contesting an objective you control.</description>
+        </rule>
+        <rule name="Unyielding Anvil" id="1c772e37-5b69-43f6-b8f1-df779c3fd29c" hidden="false">
+          <description>While an enemy unit is in combat with a friendly Khazalite Holds unit, subtract 1 inch from that enemy unit’s pile-in move, to a minimum of 1 inch.</description>
+        </rule>
+        <rule name="Wayfarer Nomads" id="10ce4002-afab-4a77-90fd-5bc2541e639c" hidden="false">
+          <description>When you declare a run or charge ability for a Khazalite Holds unit more than 6 inches from all other friendly units, a die roll determines how far it moves.</description>
+        </rule>
+        <rule name="Long of Beard" id="e2e2ace6-7918-4d4e-8924-485f037ffeff" hidden="false">
+          <description>Each time a visible friendly Khazalite Holds unit wholly within 12 inches of this unit uses a Rally command, make three additional Rally rolls of a D6.</description>
+        </rule>
+        <rule name="Innate Resonance" id="8a53b018-f36c-4afa-b157-7b8bc9120a99" hidden="false">
+          <description>If this unit is not a priest, it has Wizard 1. If it is already a wizard, it has Wizard 2 instead. Manifestations have Strike-Last while within 12 inches of this unit.</description>
+        </rule>
+        <rule name="Sworn to Vengeance" id="82eca103-34a3-4c86-8370-4b23cee5c34a" hidden="false">
+          <description>If combat attacks made with this unit’s non-companion weapons allocate damage points to an enemy unit and that enemy unit is destroyed, give this unit a vengeance token (maximum 3) until the end of the next turn. Add 1 to the Attacks characteristic of this unit’s non-companion melee weapons for each token. The unit need not deliver the final blow.</description>
+        </rule>
+        <rule name="Hearth Flares" id="7ef06048-695a-4c39-a6cb-00edbf42b2b0" hidden="false">
+          <description>Pick an objective within 12 inches of this unit. Until the start of your next turn, add 5 to the control score of friendly Khazalite Holds units while they contest that objective.</description>
+        </rule>
+        <rule name="Flame Scale Rune Cloak" id="2995d82d-b50f-49bd-8b5d-1e7daa1162e9" hidden="false">
+          <description>Subtract 1 from hit rolls for attacks that target this unit if it has not charged this turn.</description>
+        </rule>
+        <rule name="Deep Earth Runic Weapon" id="dc31568d-21b5-42c5-bc24-33e900d2a5a2" hidden="false">
+          <description>Pick one of this unit’s non-companion melee weapons as the runic weapon. Add 1 to its Rend for the battle. Then choose one: roll a die and on 3+ add 1 to its Attacks; or strike a rune, rolling a die and on 5+ add 1 to both its Attacks and Damage.</description>
+        </rule>
+        <rule name="Runewright: Grudgement of the Forge" id="6cf2d159-7a09-48f7-b799-e0ff1b190135" hidden="false">
+          <description>Add 1 to unbinding rolls, banishment rolls and Rhythmic Hammering rolls for this unit while it has any grudge marks.</description>
+        </rule>
+        <rule name="Runewright: Rhythmic Hammering" id="a5f1871d-03a8-443a-8f38-50e1afdd6860" hidden="false">
+          <description>Declare a spell ability from either Khazalite Holds spell lore and cast it normally. If the casting roll equals or exceeds the casting value, roll 2D6. If the result is lower than the spell’s casting value, the spell fails and its effect is not resolved. If the result equals or exceeds the casting value, increase the spell’s range by 3 inches. Repeat until a roll is lower than the casting value; range increases are cumulative.</description>
+        </rule>
+        <rule name="Rune of Dismay" id="d88ed571-12a1-438a-80bc-a968a2894506" hidden="false">
+          <description>Until the start of your next turn, subtract 1 from the Attacks characteristic of melee weapons used by enemy units while within 6 inches of the caster.</description>
+        </rule>
+        <rule name="Rune of Courage" id="9cebb41a-c928-456d-8982-f676045f0968" hidden="false">
+          <description>Until the start of your next turn, re-roll charge rolls for friendly Khazalite Holds units wholly within 12 inches of the caster.</description>
+        </rule>
+        <rule name="Rune of the Furnace" id="7b1aa993-9c5e-45e9-9090-77f6442173f7" hidden="false">
+          <description>Inflict D3 mortal damage on each visible enemy unit within 12 inches of the caster.</description>
+        </rule>
+        <rule name="Rune of Might" id="33c1c9c2-f18c-42d0-a642-a3e820b98e9a" hidden="false">
+          <description>Until the start of your next turn, add 1 to the Rend characteristic of melee weapons used by friendly Khazalite Holds units while within 3 inches of the caster.</description>
+        </rule>
+        <rule name="Rune of Sanctuary" id="ec4c664f-93d6-4921-bdc9-8a4012225a26" hidden="false">
+          <description>Until the start of your next turn, friendly Khazalite Holds units wholly within 12 inches of the caster are not visible to enemy units more than 12 inches away from them.</description>
+        </rule>
+        <rule name="Rune of Warding" id="ae5a86bd-c7ec-4b8e-a105-4bb610e94e33" hidden="false">
+          <description>Until the start of your next turn, while wholly within 12 inches of the caster, attacks made by enemy units cannot score critical hits and are treated as regular hits.</description>
+        </rule>
+        <rule name="Recitation to Vala" id="aafaae9e-2128-440e-9391-57cc62b94dea" hidden="false">
+          <description>Pick a friendly Khazalite Holds unit within 12 inches of the priest. On a chanting roll of 8+, pick a second eligible unit. Subtract 1 from wound rolls for attacks that target the unit until the start of your next turn.</description>
+        </rule>
+        <rule name="Recitation to Gazul" id="7063f3c4-fcc9-44fb-abeb-d370c0294e8a" hidden="false">
+          <description>Until the start of your next turn, enemy units and enemy manifestations cannot be set up within 12 inches of the chanting priest. On a chanting roll of 9+, use 18 inches instead.</description>
+        </rule>
+        <rule name="Recitation to Grimnir" id="be10538f-8638-4e9d-9ec3-abbad589ff1d" hidden="false">
+          <description>Pick a visible enemy unit within 18 inches. Until the start of your next turn, each time it uses a core ability, after it resolves inflict 1 mortal damage on it. On a chanting roll of 10+, inflict D3 mortal damage instead.</description>
+        </rule>
+        <rule name="Source and verification notice" id="ba290ce3-6414-4c55-ae08-b6bec5eccdd5" hidden="false">
+          <description>This is an unofficial community catalogue derived from a paraphrased video transcript, not the official battletome. Unclear captions, approximate points and incomplete profiles are flagged in the notes. Check the actual battletome before tournament use.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="High King Valencrom" id="a31e9ffd-1450-47f9-8cc3-df7ef4c2a38f" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="86de186d-2626-4ba4-82bb-e9f41dc57c7c" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="WAR MACHINE" id="703feb1c-9e27-42af-9579-8498bbc53291" hidden="false" primary="false" targetId="4084f492-92de-4d0a-96bf-13efc0400068" />
+        <categoryLink name="UNIQUE" id="7a6d5fa2-605c-4188-854b-b9e132f62cf1" hidden="false" primary="false" targetId="edb93ff4-c7bb-4c58-9fda-6e5bc7f08ba0" />
+        <categoryLink name="GENERAL" id="2c458ce6-5d4c-4b59-ba85-4b527de412ae" hidden="false" primary="false" targetId="06902ac8-0414-42b8-afd4-df3db4187399" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="390" />
+      </costs>
+      <profile name="High King Valencrom" id="bb533d84-b7fc-4061-ba79-5ad1d2d05707" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">10"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">16</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">5</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">War Master; keywords as spoken: Hero, Unique, War Master, War Machine.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Forge Spark Lightning" id="e0d2806a-79a9-44f9-b9e7-e3b02ebbc7aa" hidden="false" typeId="c34771fa-4170-418c-ba03-172ed1ba06a3" typeName="Ranged Weapon">
+          <characteristics>
+            <characteristic name="Rng" typeId="9008da00-8227-4295-9474-5e8d8ef53db1">12"</characteristic>
+            <characteristic name="Atk" typeId="e217b95a-8e11-4d1f-83c2-f3fd1ceeeb2a">6</characteristic>
+            <characteristic name="Hit" typeId="ba26751d-f1dd-4c64-a1bc-920d9772e776">4+?</characteristic>
+            <characteristic name="Wnd" typeId="bc397a60-0482-4347-938e-2462eca3b43a">2+?</characteristic>
+            <characteristic name="Rnd" typeId="fb21e126-8265-43de-b2b4-a46c1bcdc628">2</characteristic>
+            <characteristic name="Dmg" typeId="c4792f8d-bb30-4834-96b9-0aed53a2144a">1</characteristic>
+            <characteristic name="Ability" typeId="bb5069be-cbd1-4f74-b9d2-cd2e874ce850">Crit (2 Hits)</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Barrang" id="9a5075dc-7c3b-43ac-9dd0-fa4357f2654d" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">6</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">3+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Anti-Monster (+1 Rend); Crit (Mortal)</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="War Council" id="87d138c1-e079-4275-ada5-cb3114837d24" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">6</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">3+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">1</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Tide of Stone" id="77891336-902e-4b2d-a7e7-ef6d05b36801" hidden="false">
+          <description>This unit can move D6 inches, or 2D6 inches during your movement phase. It can pass through models and enemy combat ranges but cannot end in combat. Pick an enemy unit it passed across and roll a die; on 3+, inflict mortal damage equal to the roll.</description>
+        </rule>
+        <rule name="Source notes" id="9cfd5ab9-890c-484e-ad4a-b5d84091a4ba" hidden="false">
+          <description>War Master; keywords as spoken: Hero, Unique, War Master, War Machine.</description>
+        </rule>
+        <rule name="Defend the High Throne" id="480760c8-2ea0-40fe-9d84-03dbe70f881c" hidden="false">
+          <description>Pick another visible friendly Khazalite Holds unit within 12 inches as target, plus one additional eligible unit for each grudge mark this unit has. Until the end of the turn, while a target is wholly within 6 inches of this unit, its melee weapons have Anti-charge (+1 Rend). Add 3 inches to that range for each grudge mark this unit has. A target with no grudge marks counts as having one.</description>
+        </rule>
+        <rule name="High War Council" id="91b30289-4f61-4330-89cb-a80fb140a2b7" hidden="false">
+          <description>Choose one effect until the start of your next turn: Stonesmith — pick a visible enemy unit within 12 inches; its maximum control score becomes 1. Grudgebringer’s Denunciation — visible friendly Khazalite Holds units wholly within 12 inches can charge even if they retreated this turn; they suffer no mortal damage from that retreat but still lose a grudge mark. Holdseeker’s Guidance — add 1 to casting, chanting and banishment rolls for friendly units wholly within 12 inches.</description>
+        </rule>
+        <rule name="Stirring the High King’s Ire" id="7c2cac61-91f0-459d-8115-5642d418369a" hidden="false">
+          <description>Pick a visible enemy hero within 18 inches that has not previously been targeted by this ability. Its controller accepts or rejects the accusation. If accepted, until the start of your next turn add 1 to hit rolls for combat attacks by friendly Khazalite Holds units. If rejected, that hero cannot use commands until the start of your next turn. Name garbled in captions.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Thrin on War Throne" id="0730c648-c25b-44c9-910c-8629d4b73934" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="edae7aeb-81e0-4515-b93f-fb25ae6626a4" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="WAR MACHINE" id="e7a8fa28-a1e3-415c-aefa-130bbcc5435e" hidden="false" primary="false" targetId="4084f492-92de-4d0a-96bf-13efc0400068" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="340" />
+      </costs>
+      <profile name="Thrin on War Throne" id="dfd3ac4c-720d-47ae-9f68-b7c2c6faac7f" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">10"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">16</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Non-unique. Weapon profiles were not read out; narrator described them as similar to the High King.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Defend the Throne" id="05c8294b-0e35-48f7-ba1b-2025fece4e76" hidden="false">
+          <description>Pick another visible friendly Khazalite Holds unit within 12 inches as target, plus one additional eligible unit for each grudge mark this unit has. Until the end of the turn, targets’ melee weapons have Anti-charge (+1 Rend) while wholly within 6 inches of this unit. Add 3 inches to that range for each grudge mark this unit has. Unlike the High King version, no “counts as having one grudge mark” clause was reported.</description>
+        </rule>
+        <rule name="Source notes" id="5799c813-fdf6-4ac7-aa52-e8c024c67397" hidden="false">
+          <description>Non-unique. Weapon profiles were not read out; narrator described them as similar to the High King.</description>
+        </rule>
+        <rule name="Carak War Council" id="bf95b5e2-f971-4534-a3fc-6d2e14b65595" hidden="false">
+          <description>Choose one effect until the start of your next turn: Stonesmith’s Passage — add 2 inches to Move for visible friendly Khazalite Holds infantry wholly within 12 inches; they suffer no mortal damage from retreat abilities but still lose a grudge mark. Grudgebearer’s Accusation — pick a visible enemy hero within 18 inches; friendly Khazalite Holds infantry can ignore Guarded Hero when choosing it as a shooting target. Holdseeker’s Protection — pick a visible friendly unit within 12 inches and roll a die; on 3+, weapon abilities for attacks that target it have no effect except companion weapon abilities.</description>
+        </rule>
+        <rule name="Forge a Path" id="538a9e7e-2ca0-4e28-9ae1-dec68748c1aa" hidden="false">
+          <description>Pick a visible friendly Chromdrawn infantry unit wholly within 6 inches that has not been set up this turn (Fire Slayers cannot be chosen). Remove it. After this unit ends its move, set the target up within 6 inches of this unit and more than 9 inches from all enemy units.</description>
+        </rule>
+        <rule name="Tectonic Impact" id="f097358a-7fdf-45ea-9eaa-79eed20fa450" hidden="false">
+          <description>If this unit charged this turn, pick a visible enemy unit within 1 inch and roll a die. On 3+, inflict mortal damage equal to the roll.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Hilda the Drab-Blood" id="28f946a0-37eb-4b4d-b776-baa273998ce0" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="60f49bbe-8d21-45cb-9029-c9acd1d4051f" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="6ff6bda3-1016-420f-8f66-ebead2f3073f" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="UNIQUE" id="33c355b9-940b-4ebf-aaba-ec8d178bf096" hidden="false" primary="false" targetId="edb93ff4-c7bb-4c58-9fda-6e5bc7f08ba0" />
+      </categoryLinks>
+      <profile name="Hilda the Drab-Blood" id="b15a3e6d-3318-4d0b-8cfb-b4bcc360e567" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">2</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Unique infantry hero; not a wizard or priest. Weapon: 6 attacks, Damage 2, Crit (Mortal); hit/wound/rend unclear.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Talisman of the Lost Carak" id="7a3fd234-6470-4741-abe9-e90d9118fcc0" hidden="false">
+          <description>While this unit is in combat, add 1 to hit rolls for combat attacks by friendly non-hero Khazalite Holds infantry units within 3 inches of it and visible to it.</description>
+        </rule>
+        <rule name="Source notes" id="81c383e9-0205-40c9-87a8-88abfeab5146" hidden="false">
+          <description>Unique infantry hero; not a wizard or priest. Weapon: 6 attacks, Damage 2, Crit (Mortal); hit/wound/rend unclear.</description>
+        </rule>
+        <rule name="Book of the Fallen Holds" id="faaa60d3-1ccb-462a-a22b-62c24404df5e" hidden="false">
+          <description>Pick an enemy unit to be grudged; it can be in reserve. For the rest of the battle, while the grudged unit is within 12 inches of and visible to this unit, friendly Khazalite Holds units wholly within 12 inches of this unit can re-roll charge rolls.</description>
+        </rule>
+        <rule name="Last of a Clan" id="aec6912e-3b7f-4799-b951-e4f3a3ad8821" hidden="false">
+          <description>Pick this unit and up to two other visible friendly non-hero Khazalite Holds units within 12 inches. If this unit has any grudge marks, the effect applies automatically; otherwise roll a die and it applies on 3+. Ignore the first damage point that would be allocated to each target in each phase.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Thrin (Foot Hero)" id="0a1b3146-82f4-4321-ae06-632d582d90e9" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="b7d7525b-f0df-4e08-a7af-0deac9e79745" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="03b7f18f-2111-4e8d-90a6-e87402f8f595" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+      </categoryLinks>
+      <profile name="Thrin (Foot Hero)" id="d56150c9-2811-458d-a5f4-451ff389e511" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">About 110 points as spoken, not confirmed. Melee: 5 attacks, 3+/3+, Rend 1, Damage 2.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Steadfast Retribution" id="240b2158-35fc-4967-b796-7b74ae4ecc90" hidden="false">
+          <description>Add 1 to the Attacks characteristic of this unit’s melee weapons for each other visible friendly unit within 6 inches that has any grudge marks, to a maximum of +3.</description>
+        </rule>
+        <rule name="Source notes" id="6df4b744-9524-420c-b6ad-1ee91f415ad3" hidden="false">
+          <description>About 110 points as spoken, not confirmed. Melee: 5 attacks, 3+/3+, Rend 1, Damage 2.</description>
+        </rule>
+        <rule name="Fight Shoulder-to-Shoulder" id="31fe05ae-40f6-4796-a0dc-83796f2caae5" hidden="false">
+          <description>If this unit is next to a Chromdrawn infantry unit, one fights first and the other fights immediately afterward; you can give either of them +1 to hit. Full text not read; narrator summary only.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Runewright" id="b825fdd6-a2ab-4547-ade2-8372797018f0" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="a23e3c4b-cab8-4113-8c79-77e5de975cf8" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="dea165e2-1724-4d29-ad12-e187b5a8e6bf" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="WIZARD" id="d5786c6b-c158-4e26-9d62-f2046441ecf2" hidden="false" primary="false" targetId="76caecfb-9a38-4a21-b153-88350b01b121" />
+      </categoryLinks>
+      <profile name="Runewright" id="3f49b31a-37dd-4b5c-a049-ca656564e0c7" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">4+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">2</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Wizard 1. Weapon profiles not read out.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Grudgement of the Forge" id="1ea2b43b-a512-44fc-b9f3-142c044819ed" hidden="false">
+          <description>Add 1 to unbinding rolls, banishment rolls and Rhythmic Hammering rolls while this unit has any grudge marks.</description>
+        </rule>
+        <rule name="Source notes" id="53c65271-d570-44cb-b47f-345aa6137ba8" hidden="false">
+          <description>Wizard 1. Weapon profiles not read out.</description>
+        </rule>
+        <rule name="Rhythmic Hammering" id="103cd1b0-283a-4ad7-8804-ede7d48698d4" hidden="false">
+          <description>After casting a spell from either Khazalite Holds lore, roll 2D6. If the result equals or exceeds the spell’s casting value, add 3 inches to the spell’s range. Repeat, accumulating range, until a roll is lower than the casting value. A roll below the casting value causes the spell to fail and its effect is not resolved. Narrator says this does not work with manifestation-summoning spells.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Clan Shields" id="6a828c12-df4e-4a8f-b4ab-f4c49effc8e6" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="573f08fa-6608-4fc5-86ff-9e9fbcd1c429" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="CHROMDRAWN" id="173a93be-d949-464c-9833-807471bfa079" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="220" />
+      </costs>
+      <profile name="Clan Shields" id="2ed03ddc-89b8-4fd7-8fba-e0a897584b0e" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">1</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">1</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">10 models, reinforceable to 20. 220 points likely for 20 models. Chrom weapons: melee 2, hit 3+, wound 4+, Rend —, Damage 1, Anti-infantry (+1 Rend).</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Chrom weapons" id="b4ef8ce1-20de-4322-80a1-c501fd4c9361" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">2</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">4+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">1</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Anti-infantry (+1 Rend)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Tougher Than Stone" id="7ca1b4c4-f1b8-432f-838c-0f5b978b7ae7" hidden="false">
+          <description>Subtract 1 from the Rend characteristic of weapons used for combat attacks that target this unit while every model in the unit is within 3 inches of an objective you control.</description>
+        </rule>
+        <rule name="Source notes" id="635810ea-0651-45c8-907d-7401c4a019d4" hidden="false">
+          <description>10 models, reinforceable to 20. 220 points likely for 20 models. Chrom weapons: melee 2, hit 3+, wound 4+, Rend —, Damage 1, Anti-infantry (+1 Rend).</description>
+        </rule>
+        <rule name="Remember Their Names" id="c231b2cf-a369-408a-8af5-53b00f794126" hidden="false">
+          <description>Add 1 to wound rolls for this unit’s attacks while it has any grudge marks.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Clan Gunners (Thunderdrop Rifles)" id="b101d1d5-9021-437d-9f3f-10dac880a614" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="89f2397d-47ab-44a4-a416-dc803f5c5156" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="CHROMDRAWN" id="5005b655-a6d4-4f94-8539-5fc3f1b5dcd8" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <profile name="Clan Gunners (Thunderdrop Rifles)" id="970a2b6c-fc8e-46a4-8b13-592b6aaccdd3" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">1</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">4+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">10 models, reinforceable to 20. Rifle 18", 2 attacks, 3+/4+, Rend 1, Damage 1.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Thunderdrop rifle" id="c368af42-109a-463e-b0eb-b67cc2190283" hidden="false" typeId="c34771fa-4170-418c-ba03-172ed1ba06a3" typeName="Ranged Weapon">
+          <characteristics>
+            <characteristic name="Rng" typeId="9008da00-8227-4295-9474-5e8d8ef53db1">18"</characteristic>
+            <characteristic name="Atk" typeId="e217b95a-8e11-4d1f-83c2-f3fd1ceeeb2a">2</characteristic>
+            <characteristic name="Hit" typeId="ba26751d-f1dd-4c64-a1bc-920d9772e776">3+</characteristic>
+            <characteristic name="Wnd" typeId="bc397a60-0482-4347-938e-2462eca3b43a">4+</characteristic>
+            <characteristic name="Rnd" typeId="fb21e126-8265-43de-b2b4-a46c1bcdc628">1</characteristic>
+            <characteristic name="Dmg" typeId="c4792f8d-bb30-4834-96b9-0aed53a2144a">1</characteristic>
+            <characteristic name="Ability" typeId="bb5069be-cbd1-4f74-b9d2-cd2e874ce850">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Grudge-marked shooting" id="794f2af4-af4e-45ce-9035-5dff36ea8655" hidden="false">
+          <description>Add 1 to wound rolls for this unit’s shooting attacks while it has any grudge marks. Ability name not captured.</description>
+        </rule>
+        <rule name="Source notes" id="98090288-c71e-4426-96c0-278987c58ce4" hidden="false">
+          <description>10 models, reinforceable to 20. Rifle 18", 2 attacks, 3+/4+, Rend 1, Damage 1.</description>
+        </rule>
+        <rule name="Thunderdrop Hail" id="c0f44c23-c85b-4642-bec0-539f81c41669" hidden="false">
+          <description>Pick an enemy unit that suffered damage points from this unit’s shooting attacks this turn and roll a die. Add 1 if the target is cavalry or has Fly; add 2 instead if it is a Monster. On 4+, halve the target’s Move characteristic until the start of your next turn.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Clan Gunners (Thundering Shot Cannons)" id="8851eb8d-b53a-47bd-97ba-2274d7081d5e" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="07cf56fc-1cc8-4524-ab24-9c8af8a1276c" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="CHROMDRAWN" id="77b3c559-43b5-4372-b16c-90ce3f007412" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <profile name="Clan Gunners (Thundering Shot Cannons)" id="457015e9-e92e-4d7f-8afc-57eb0b0ca0f6" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">1</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">4+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">10 models, reinforceable to 20. Cannon 12", 2 attacks, 3+/3+, Rend —, Damage 1, Crit (Auto-wound).</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Thundering shot cannon" id="0b8ee9fa-fb2d-43f6-a9b3-996255b5fa04" hidden="false" typeId="c34771fa-4170-418c-ba03-172ed1ba06a3" typeName="Ranged Weapon">
+          <characteristics>
+            <characteristic name="Rng" typeId="9008da00-8227-4295-9474-5e8d8ef53db1">12"</characteristic>
+            <characteristic name="Atk" typeId="e217b95a-8e11-4d1f-83c2-f3fd1ceeeb2a">2</characteristic>
+            <characteristic name="Hit" typeId="ba26751d-f1dd-4c64-a1bc-920d9772e776">3+</characteristic>
+            <characteristic name="Wnd" typeId="bc397a60-0482-4347-938e-2462eca3b43a">3+</characteristic>
+            <characteristic name="Rnd" typeId="fb21e126-8265-43de-b2b4-a46c1bcdc628">—</characteristic>
+            <characteristic name="Dmg" typeId="c4792f8d-bb30-4834-96b9-0aed53a2144a">1</characteristic>
+            <characteristic name="Ability" typeId="bb5069be-cbd1-4f74-b9d2-cd2e874ce850">Crit (Auto-wound)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Grim Retaliation" id="346a862e-7f3e-41e6-8472-2b2a463e5ee7" hidden="false">
+          <description>Add 1 to the Attacks characteristic of this unit’s ranged weapons while it has any grudge marks.</description>
+        </rule>
+        <rule name="Source notes" id="2dce2272-f116-4c8d-aa1c-10772d17a0c2" hidden="false">
+          <description>10 models, reinforceable to 20. Cannon 12", 2 attacks, 3+/3+, Rend —, Damage 1, Crit (Auto-wound).</description>
+        </rule>
+        <rule name="Unidentified cannon ability" id="f8d4cc7a-9e6b-43cd-934c-5d1ca38c583f" hidden="false">
+          <description>Pick an enemy unit that suffered damage points from this unit’s shooting attacks this turn and roll a die. Add 1 if the target does not have Fly. On 4+, until the start of your next turn subtract 1 from the number of dice rolled for the target’s charge rolls, to a minimum of 1. Ability name not captured.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Valaean Guardians (Shields)" id="6083204b-4ef3-4540-8c04-4103f1294589" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="6256b049-c1c6-4637-b994-d0a8823ed548" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="CHROMDRAWN" id="d2df2781-7209-46a3-91e0-7a8eefc899b4" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="110" />
+      </costs>
+      <profile name="Valaean Guardians (Shields)" id="562c68ed-f473-4f2c-a96b-66c986f53996" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">1</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">5 models, reinforceable to 10; 110 points for 5, 220 for 10. Ward 4+. Melee: 3 attacks, 3+/4+, Rend 1, Damage 1.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Melee weapon (name not captured)" id="1ecbc0ac-4842-40ab-b5a6-ceaf3475a7f1" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">3</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">4+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">1</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">1</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Shield Batter" id="f2e78766-96f8-4b4a-b677-11835f28b854" hidden="false">
+          <description>Pick an enemy unit that charged this turn and is in combat with this unit. Roll a die for each enemy model in combat with this unit. For each 4+, inflict 1 mortal damage on the target.</description>
+        </rule>
+        <rule name="Source notes" id="a812a594-dff5-4a10-a27b-0a4028bfa967" hidden="false">
+          <description>5 models, reinforceable to 10; 110 points for 5, 220 for 10. Ward 4+. Melee: 3 attacks, 3+/4+, Rend 1, Damage 1.</description>
+        </rule>
+        <rule name="Protection of Vala" id="18ce5586-bfde-4fa7-b747-2ea73bdf40ed" hidden="false">
+          <description>While this unit has any grudge marks, visible friendly Khazalite Holds infantry units and non-Golem War Machine units have a 5+ ward save while wholly within 6 inches of it. Captions unclear; narrator later indicated 5+.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Valaean Guardians (Runic Halberds)" id="62fed14c-68d0-451f-b10d-692627c111d0" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="c74bb45c-13d7-47ca-a3be-012d14a19003" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="CHROMDRAWN" id="1874430d-8e1e-485f-a1f1-269d2a18c481" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <profile name="Valaean Guardians (Runic Halberds)" id="008f4bba-c814-4c68-96d2-19c9c2221059" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">1?</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">4+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">5 models, reinforceable to 10. Ward 4+. Health 1 likely, unclear. Halberd: 2 attacks, 3+/4+, Rend 2, Damage 2, Crit (2 Hits).</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Runic halberd" id="04343ecb-5711-4557-a386-96689bb67f49" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">2</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">4+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Crit (2 Hits)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Warriors of the Hearth" id="374dd7c8-fd37-4b15-9519-175dddec68fa" hidden="false">
+          <description>Use this charge ability instead of the normal charge ability. It allows the unit to re-roll the charge roll and inflict D3 mortal damage on a turn when the unit charges. Exact trigger for mortal damage was not captured clearly.</description>
+        </rule>
+        <rule name="Source notes" id="a250f4c4-af79-4871-a39f-ae3b6fe827f9" hidden="false">
+          <description>5 models, reinforceable to 10. Ward 4+. Health 1 likely, unclear. Halberd: 2 attacks, 3+/4+, Rend 2, Damage 2, Crit (2 Hits).</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Oathkeeper Cannon" id="fa6dfa71-c714-4099-9898-29310efb7cff" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="WAR MACHINE" id="e61493ca-f4da-4330-86d5-43d8426f0082" hidden="false" primary="true" targetId="4084f492-92de-4d0a-96bf-13efc0400068" />
+        <categoryLink name="ARTILLERY" id="9aadd712-1cf5-41c4-9895-5c4ed46866ca" hidden="false" primary="false" targetId="d4dd35e1-e03f-40c4-9e96-10ffbbf34c0f" />
+        <categoryLink name="CHROMDRAWN" id="e5b7b08f-0618-45e2-aac5-58027162cb10" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="150" />
+      </costs>
+      <profile name="Oathkeeper Cannon" id="d93e6db0-2573-4fbd-9d33-1dec91428c53" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">6</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Oathkeeper shot 24", 3 attacks, 4+/2+, Rend 2, Damage D3+2.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Oathkeeper shot" id="daaabd84-9c65-4daf-b189-9404cc9d7335" hidden="false" typeId="c34771fa-4170-418c-ba03-172ed1ba06a3" typeName="Ranged Weapon">
+          <characteristics>
+            <characteristic name="Rng" typeId="9008da00-8227-4295-9474-5e8d8ef53db1">24"</characteristic>
+            <characteristic name="Atk" typeId="e217b95a-8e11-4d1f-83c2-f3fd1ceeeb2a">3</characteristic>
+            <characteristic name="Hit" typeId="ba26751d-f1dd-4c64-a1bc-920d9772e776">4+</characteristic>
+            <characteristic name="Wnd" typeId="bc397a60-0482-4347-938e-2462eca3b43a">2+</characteristic>
+            <characteristic name="Rnd" typeId="fb21e126-8265-43de-b2b4-a46c1bcdc628">2</characteristic>
+            <characteristic name="Dmg" typeId="c4792f8d-bb30-4834-96b9-0aed53a2144a">D3+2</characteristic>
+            <characteristic name="Ability" typeId="bb5069be-cbd1-4f74-b9d2-cd2e874ce850">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Artillery’s Revenge" id="4738b1c3-1294-40d0-8e7a-4c953485906e" hidden="false">
+          <description>This unit’s ranged weapons have Crit (2 Hits) while it has any grudge marks.</description>
+        </rule>
+        <rule name="Source notes" id="dbe3a39f-bba0-4d43-8b28-5a87b5707181" hidden="false">
+          <description>Oathkeeper shot 24", 3 attacks, 4+/2+, Rend 2, Damage D3+2.</description>
+        </rule>
+        <rule name="Oathkeeper’s Apprentice Rune Striker" id="166ef5c7-8714-46b1-b924-b7e284b3e39e" hidden="false">
+          <description>Pick an enemy unit that suffered damage from shooting this turn and roll a die. On 3+, choose one: Rune of Sundering — until the start of your next turn subtract 1 from Rend of the target’s melee weapons; Rune of Burning — for the rest of the turn, combat attacks targeting it score critical hits on an unmodified 5+; Rune of Shock — it has Strike-Last until the start of your next turn. Captions unclear whether only this unit’s shooting attacks must have caused damage.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Stonebreaker Mortar" id="8527f18d-64f7-4fad-b21d-c3a0ffa5b8d7" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="WAR MACHINE" id="69c49a01-b055-4c27-8767-fd9ef7d05846" hidden="false" primary="true" targetId="4084f492-92de-4d0a-96bf-13efc0400068" />
+        <categoryLink name="ARTILLERY" id="ce5e1ff4-bf76-4582-a6f8-09aaefdd2cea" hidden="false" primary="false" targetId="d4dd35e1-e03f-40c4-9e96-10ffbbf34c0f" />
+        <categoryLink name="CHROMDRAWN" id="7ee03809-9170-4f2e-87b2-8a3121aa8556" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <profile name="Stonebreaker Mortar" id="33fa8b24-4f43-4e5a-9c56-f2b75eb47813" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">6</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Stonebreaker mortar 30", 5 attacks, 3+/3+, Rend 1, Damage 2; values are best reading of captions.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Stonebreaker mortar" id="edf121d0-3b4a-4b04-89a7-a34bd683a6da" hidden="false" typeId="c34771fa-4170-418c-ba03-172ed1ba06a3" typeName="Ranged Weapon">
+          <characteristics>
+            <characteristic name="Rng" typeId="9008da00-8227-4295-9474-5e8d8ef53db1">30"</characteristic>
+            <characteristic name="Atk" typeId="e217b95a-8e11-4d1f-83c2-f3fd1ceeeb2a">5</characteristic>
+            <characteristic name="Hit" typeId="ba26751d-f1dd-4c64-a1bc-920d9772e776">3+</characteristic>
+            <characteristic name="Wnd" typeId="bc397a60-0482-4347-938e-2462eca3b43a">3+</characteristic>
+            <characteristic name="Rnd" typeId="fb21e126-8265-43de-b2b4-a46c1bcdc628">1</characteristic>
+            <characteristic name="Dmg" typeId="c4792f8d-bb30-4834-96b9-0aed53a2144a">2</characteristic>
+            <characteristic name="Ability" typeId="bb5069be-cbd1-4f74-b9d2-cd2e874ce850">Crit (2 Hits) while it has grudge marks</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Stonebreaker Apprentice Rune Striker" id="e7754af0-aff6-4a6c-b794-f60dbf3ce6d6" hidden="false">
+          <description>Pick an enemy unit that suffered damage this turn and roll a die. On 3+, choose one effect: set the target’s control score to 1 and prevent it using run abilities (duration not captured); or roll a D3 for each enemy unit within 3 inches of the target and on 2+ inflict mortal damage on the target equal to the roll.</description>
+        </rule>
+        <rule name="Source notes" id="7ea6432d-c8ac-423a-892c-74d304241d12" hidden="false">
+          <description>Stonebreaker mortar 30", 5 attacks, 3+/3+, Rend 1, Damage 2; values are best reading of captions.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Golems of Gazul" id="4baecf50-0ae9-46e3-9308-fab58b733246" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="0be1dfa7-1f5d-47e9-8ef5-a9bfc77feba5" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="MONSTER" id="182ff8b9-5062-4e4b-b253-04c6b297fd5e" hidden="false" primary="false" targetId="9c636774-2944-466a-a5d0-c9b88ce532d8" />
+        <categoryLink name="CHROMDRAWN" id="56637fdb-24b0-4513-a7fb-225d971ffb39" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="210" />
+      </costs>
+      <profile name="Golems of Gazul" id="6e22b5f9-bc11-409e-a900-13ed39b029dd" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">6"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">3 models, reinforceable to 6. Great hammer: 3 attacks, 4+/2+, Rend 2, Damage 3.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Great hammer" id="4b11a213-5be8-4b71-9ce8-40cb34f168db" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">3</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">4+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">2+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Runes of Gazul" id="7c6a170b-e33b-42f0-81b2-18f02be5332c" hidden="false">
+          <description>Subtract 1 from ward rolls for damage points inflicted by this unit’s combat attacks.</description>
+        </rule>
+        <rule name="Source notes" id="279c8efe-7c87-4273-99c4-d641a154fd5d" hidden="false">
+          <description>3 models, reinforceable to 6. Great hammer: 3 attacks, 4+/2+, Rend 2, Damage 3.</description>
+        </rule>
+        <rule name="Armor-Crushing Swings" id="ff077fb2-242c-47dc-89d3-ae378f664305" hidden="false">
+          <description>Pick an enemy unit in combat with this unit. Its controller chooses whether it attempts to sidestep. If it does, subtract 1 from its hit rolls for the rest of the turn. Then roll a die, subtracting 1 if the target attempted to sidestep. If the result equals or exceeds the target’s Save characteristic, subtract 1 from its save rolls for the rest of the turn.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Golems of Vala" id="ecdcf061-7a2f-4744-9309-94fd654ca945" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="9eeda1db-3597-4e7a-bef3-5197b4ae8ca5" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="MONSTER" id="8c37035e-d883-4b73-9c50-dbc86940814e" hidden="false" primary="false" targetId="9c636774-2944-466a-a5d0-c9b88ce532d8" />
+        <categoryLink name="CHROMDRAWN" id="755ad4c2-4e74-42a8-aaa0-9c8c8ddf9c99" hidden="false" primary="false" targetId="c3aec235-591d-4d2b-828d-6f5bab2c4dfe" />
+      </categoryLinks>
+      <profile name="Golems of Vala" id="5b5fd2bc-8fd9-469f-a599-c151a7b63130" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">6"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">3+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">2</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Unit of 3 mentioned; size and points not restated. Great axe: 4 attacks, 4+/2+, Rend 2, Damage 2.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Great axe" id="4d5f593e-a2fb-4bac-85d1-17f5a20737c2" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">4</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">4+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">2+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Icons of Vala" id="46ae6a79-f1cd-4186-b029-58e2d95a9367" hidden="false">
+          <description>If this unit is destroyed before being removed from play, give each visible friendly non-Golem Valaean unit one grudge mark.</description>
+        </rule>
+        <rule name="Source notes" id="252c2697-9826-4e04-935f-96b0ee82d04a" hidden="false">
+          <description>Unit of 3 mentioned; size and points not restated. Great axe: 4 attacks, 4+/2+, Rend 2, Damage 2.</description>
+        </rule>
+        <rule name="Shield Strike" id="5ecf630f-2d95-4a54-ad3d-f82cbc0f76ab" hidden="false">
+          <description>If this unit charged this turn, pick a visible enemy unit within 1 inch and roll a die. On 3+, the target has Strike-Last for the rest of the turn.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Runefather on Magmadroth" id="67904255-074f-4fe3-a35d-4a0c3f869fc0" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="5bce660e-4149-4de5-94fc-0fe4bd4f4211" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="MONSTER" id="2f225fcb-76b9-4bf4-96f7-99733945f9d9" hidden="false" primary="false" targetId="9c636774-2944-466a-a5d0-c9b88ce532d8" />
+        <categoryLink name="GRIMDRON" id="d1dc52bf-210e-4f26-b40b-30c45b9bf979" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Auric Runefather on Magmadroth" id="2009f090-c868-4028-9af1-7a8df97e8a99" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">10"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">14</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">4+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">5</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Ward/save note unclear: captions mention “5 up”. Main melee Rend 2, Damage 3; Magmadroth companion weapon 6 attacks, Damage 3.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Main weapon (name not captured)" id="f4c59112-1cc0-43ce-88d4-7c39e73c4825" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">—</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Magmadroth companion weapon" id="1ce364e1-ae3f-41c7-b095-94ae90eb3ab9" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">6</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Companion</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Once-per-battle attack buff (name not captured)" id="16bfe2a1-c88a-4c25-8c4b-c28bdec63202" hidden="false">
+          <description>For the rest of the battle, add 1 to Attacks of melee weapons used by Grimdron units wholly within 12 inches. If this unit has any grudge marks, for the rest of the turn also add 1 to Attacks of melee weapons used by Grimdron and Chromdrawn units wholly within 12 inches. Captions garbled; verify.</description>
+        </rule>
+        <rule name="Source notes" id="5403edbf-f518-4243-bd81-c6653d083ef5" hidden="false">
+          <description>Ward/save note unclear: captions mention “5 up”. Main melee Rend 2, Damage 3; Magmadroth companion weapon 6 attacks, Damage 3.</description>
+        </rule>
+        <rule name="Raging Inferno" id="dff8df04-29f7-4ff8-8d8d-e5f5719374b8" hidden="false">
+          <description>Pick an enemy unit in combat with this unit and roll a die. On 3+, subtract 1 from save rolls for the target for the rest of the turn.</description>
+        </rule>
+        <rule name="Volcanic Blood" id="1c1996c1-1637-4f68-b04b-a8a461e925cd" hidden="false">
+          <description>Each time you make an unmodified save roll of 1 for a combat attack that targets this unit, inflict mortal damage on the attacking unit after its fight ability resolves.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Runeson on Magmadroth" id="971c9a85-595b-4a99-aa36-4c3a8dbc545c" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="8dd81f6b-b225-45cd-b659-cd177f8efc3d" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="MONSTER" id="6c7c08c5-8d27-4ca8-899e-0fff1daf24f2" hidden="false" primary="false" targetId="9c636774-2944-466a-a5d0-c9b88ce532d8" />
+        <categoryLink name="GRIMDRON" id="5752b058-e3f7-4659-ba5f-348188458418" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Auric Runeson on Magmadroth" id="0c218c3e-0a64-4f50-b894-f59637355695" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">10"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">14</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">4+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">5</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Main melee profile weaker than Runefather; no Rend 2 or Damage 3. Magmadroth companion weapon same.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Main weapon (name not captured)" id="76f08153-a287-404a-9357-65ebbec1216f" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">—</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">—</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Weaker than Runefather; exact profile not read</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Magmadroth companion weapon" id="16cb9935-0350-4c6c-9848-747746e44058" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">6</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Companion</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Magmadroth transport" id="f7fbe641-c286-493e-a4eb-ea949f07b7bc" hidden="false">
+          <description>Pick a visible friendly Grimdron infantry unit wholly within 6 inches that is not in combat and has not been set up this turn. Remove it. After this unit ends its move, set the target up wholly within 6 inches of this unit and not in combat; narrator says also more than 9 inches from enemies. Unless this unit has any grudge marks, the target cannot charge for the rest of the turn.</description>
+        </rule>
+        <rule name="Source notes" id="3417d4d3-4f22-4948-b58e-c128d396be7e" hidden="false">
+          <description>Main melee profile weaker than Runefather; no Rend 2 or Damage 3. Magmadroth companion weapon same.</description>
+        </rule>
+        <rule name="Calamitous Crash" id="72d47370-ddd4-4bdc-aecc-0f53c614f99c" hidden="false">
+          <description>Pick an enemy unit in combat with this unit and roll a die. On 3+, roll a die for each model in the target unit; for each 5+, inflict 1 mortal damage on the target.</description>
+        </rule>
+        <rule name="Volcanic Blood" id="40de2896-7756-49d9-8fe1-75b053ef099c" hidden="false">
+          <description>Each time you make an unmodified save roll of 1 for a combat attack that targets this unit, inflict mortal damage on the attacking unit after its fight ability resolves.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Runesmiter on Magmadroth" id="9593857d-eda8-4c63-98cf-1e6a72a2103d" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="7f860d55-5b8d-49ea-b8d1-11444e33d509" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="MONSTER" id="73ac6efd-a765-4182-82ea-2a79134335cc" hidden="false" primary="false" targetId="9c636774-2944-466a-a5d0-c9b88ce532d8" />
+        <categoryLink name="GRIMDRON" id="488f6f2e-42a8-4fb5-add8-fe5b92c6a06e" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+        <categoryLink name="PRIEST" id="df2b763f-9d4d-471b-9a7d-1793b4ba70f4" hidden="false" primary="false" targetId="4254fce2-c43c-445d-9fc6-82b87b77fbd2" />
+      </categoryLinks>
+      <profile name="Auric Runesmiter on Magmadroth" id="cb3380fc-31d6-40c2-b2a7-8374f52a3fcf" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">10"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">14</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">—</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">5</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Priest 1; save garbled; about 300 points as spoken. Weapon profiles not fully read.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Runic Empowerment" id="bfa9ba09-f7e9-486c-9fe9-8ca58c19970b" hidden="false">
+          <description>Pick a visible friendly Grimdron unit wholly within 12 inches. If this unit has any grudge marks, effect applies; otherwise roll a die and it applies on 3+. Add 1 to wound rolls for the target’s combat attacks for the rest of the turn. Captions garbled; verify.</description>
+        </rule>
+        <rule name="Source notes" id="132e4829-32f4-4005-9f2f-325aeb72f51e" hidden="false">
+          <description>Priest 1; save garbled; about 300 points as spoken. Weapon profiles not fully read.</description>
+        </rule>
+        <rule name="Lashing Tail" id="f3585524-6b61-4e8b-aae6-df61ca3d0598" hidden="false">
+          <description>Pick an enemy unit in combat with this unit and roll 2D6. If the result is equal to or less than the number of models in the target unit, inflict D3+3 mortal damage on it.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Runefather (Foot)" id="1534854e-639c-48c5-b8f4-db621e0fc90c" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="d733db61-2133-4a2f-8bad-ed356efff08d" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="4a8b5e53-fe27-466b-acf6-2acf795159f1" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="8defe09b-ba4e-4766-aa0a-aa7a2f03b189" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Auric Runefather (Foot)" id="d8eb73c5-8c8c-4f59-ae87-4a503f2d0d6f" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">5+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Ward 6+. Move not stated. Melee 4 attacks, Damage 3; other values unclear.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Melee weapon (name not captured)" id="2509e9fc-c198-4403-83b3-b9000d8c2646" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">4</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Royal Retinue" id="372e173e-3e77-4918-900d-949c7bc6f044" hidden="false">
+          <description>Pick a friendly non-hero Grimdron infantry unit within this unit’s combat range as its Royal Retinue for the battle. While the Retinue is wholly within 6 inches, captions mention +1 to hit and a 4+ ward save; exact wording is garbled.</description>
+        </rule>
+        <rule name="Source notes" id="d2f9aed0-ab31-4d3b-a3f6-812ab1bfabc3" hidden="false">
+          <description>Ward 6+. Move not stated. Melee 4 attacks, Damage 3; other values unclear.</description>
+        </rule>
+        <rule name="Commanding Presence" id="f6b01410-f34f-4ff5-bd6c-975517c7024c" hidden="false">
+          <description>While this unit has any grudge marks, the Royal Retinue has a 4+ ward save while wholly within 6 inches of this unit.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Runeson (Foot)" id="74d4a9af-82a8-451f-9cdd-98314418da3c" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="d5074c2d-4183-4870-8172-6c742533c8b0" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="ecf9f322-0d62-4d40-b229-4554310b4ea4" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="56c668aa-727b-4f10-85d8-6a12aa3100c1" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Auric Runeson (Foot)" id="96bc70ef-02b2-4e35-a9dd-8627733c8442" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">5+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Ward 6+. Move not stated. Melee 5 attacks, Damage 2; other values unclear.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Melee weapon (name not captured)" id="0adb3bc4-e961-4428-9037-3e2069bb8f13" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">5</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Fearless Charge" id="52951269-e43f-4f1a-a821-37105cd4f568" hidden="false">
+          <description>Add 1 to charge rolls for visible friendly Khazalite Holds infantry units wholly within 12 inches of this unit. While this unit has any grudge marks, add 2 instead.</description>
+        </rule>
+        <rule name="Source notes" id="a127365c-7efa-49f2-90c6-539e93063c60" hidden="false">
+          <description>Ward 6+. Move not stated. Melee 5 attacks, Damage 2; other values unclear.</description>
+        </rule>
+        <rule name="Dauntless Assault" id="371b71e3-1717-4ecb-879e-ee3a5c3100b0" hidden="false">
+          <description>A fight-simultaneously style ability with a Grimdron infantry unit that also gives +1 to hit. Narrator summary only; full text not read.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Runesmiter (Foot)" id="1e8df6f9-0ae5-4327-be5c-843888fe5b21" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="0afe63a6-8069-421f-a52f-7f1274af757c" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="06df8c7f-45f3-4aba-a30c-945dc331bdfa" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="4f0e2e76-84bc-412e-94bb-968972dac95a" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+        <categoryLink name="PRIEST" id="e6782839-2316-4806-ac4a-eaad3df8feb3" hidden="false" primary="false" targetId="4254fce2-c43c-445d-9fc6-82b87b77fbd2" />
+      </categoryLinks>
+      <profile name="Auric Runesmiter (Foot)" id="4b764d69-808a-4b31-86f2-ac65512dc6fe" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">—</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">—</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Priest 1. Move, health, save and weapon profiles not read out.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Righteous Wrath" id="3bef40bb-8feb-4908-a6db-0667823380da" hidden="false">
+          <description>Add 1 to chanting rolls for this unit while it has any grudge marks.</description>
+        </rule>
+        <rule name="Source notes" id="093ee345-3e56-4086-a4da-906c684554de" hidden="false">
+          <description>Priest 1. Move, health, save and weapon profiles not read out.</description>
+        </rule>
+        <rule name="Rock passage ability (name garbled)" id="8d6b2b32-b23e-4997-81b5-baecdf8c4332" hidden="false">
+          <description>Pick a visible friendly Grimdron infantry unit wholly within 12 inches and roll a die. On 3+, add 2 inches to its Move characteristic until the start of your next turn. Name and duration were garbled; duration is likely.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Flamekeeper" id="8ecb6e25-18e5-426e-9b19-5b48f15438d7" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="9064dccf-75e7-41a8-8a57-6e39801a9668" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="0a31ffaf-2092-46e4-931f-758268b8dcaa" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="70e7a873-4460-452e-b04c-dcff2ec4ab2e" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Auric Flamekeeper" id="ba0c1130-be68-462f-b962-a7844fef8f50" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">—</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">—</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Hero; neither priest nor wizard. Move, health, save and weapon profiles not read out.</characteristic>
+        </characteristics>
+      </profile>
+      <rules>
+        <rule name="Master Flame Rune" id="b1be1aef-70a4-4740-baf5-4a109acdd45e" hidden="false">
+          <description>Pick a visible friendly Grimdron infantry unit wholly within 12 inches. Roll a die. It succeeds on a 1, or if the roll is equal to or less than the number of friendly Khazalite Holds units destroyed so far. If successful, choose one until the start of your next turn: target has a 5+ ward; re-roll its charge rolls; or add 1 to Damage of its melee weapons.</description>
+        </rule>
+        <rule name="Source notes" id="fd5ffc9c-1f8c-40f4-9d59-856a31b3290e" hidden="false">
+          <description>Hero; neither priest nor wizard. Move, health, save and weapon profiles not read out.</description>
+        </rule>
+        <rule name="Fire-Fueled Anger" id="63f7b80f-7f0d-46f7-a406-bfcd04890cd5" hidden="false">
+          <description>Subtract 2 from Master Flame Rune rolls for this unit while it has any grudge marks. Lower rolls succeed, making success easier.</description>
+        </rule>
+        <rule name="Relight the Fire" id="c214e597-2648-4b57-be51-1396664194e3" hidden="false">
+          <description>If this unit is destroyed before being removed from play, give each visible friendly Grimdron unit within 6 inches one grudge mark.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Grimhold Exile" id="39b78a38-2525-4c01-a99f-1dfd9be8901a" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="2b20e1a7-f40d-4d29-bbe9-f01f4b141dba" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="296598eb-f58c-4a39-bb36-b008c5e7256c" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="933daccd-7520-4be2-b859-a85326a1aec0" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Grimhold Exile" id="99cceaaa-5e96-4db1-a92a-3af4ccff3df1" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">5+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Ward 6+; move not stated. Fire rune hammers: 5 attacks, 3+/3+, Rend 2, Damage 2, +1 Damage on charge.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Fire rune hammers" id="3650b62d-5aa1-49d9-b240-5c592c28a20b" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">5</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">3+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">+1 Damage on the charge</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Wrathful Wanderer" id="aa455c73-821d-4335-938a-8a2a9faa6a84" hidden="false">
+          <description>Remove this unit from the battlefield and set it up again wholly within 6 inches of a battlefield edge and more than 9 inches from all enemy units.</description>
+        </rule>
+        <rule name="Source notes" id="b632a777-d45d-4e17-bebc-8a7767197af9" hidden="false">
+          <description>Ward 6+; move not stated. Fire rune hammers: 5 attacks, 3+/3+, Rend 2, Damage 2, +1 Damage on charge.</description>
+        </rule>
+        <rule name="Alone but Never Outnumbered" id="2280da07-094c-4b99-a824-3cc9dc563d91" hidden="false">
+          <description>This unit has Strike-First while there are no other friendly units within 6 inches of it.</description>
+        </rule>
+        <rule name="Relentless Wrath" id="20e315e6-1a3f-4a79-b66c-5bf8daa5be16" hidden="false">
+          <description>If this unit has any grudge marks and is not in combat, it can move D6 inches. It can move through enemy combat ranges but cannot end in combat, and cannot end any further than the closest enemy unit (caption wording unclear).</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Vulkyn Flameseekers" id="eaf60d07-2401-4b0a-ab70-7a8c5767c6b8" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="f170f6d6-4b1a-4a75-994a-ff406d85cda5" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="3e559282-642d-4a28-bcba-b9946a728bb7" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Vulkyn Flameseekers" id="30666e57-f5d7-42ed-8d6e-ac95fb39475d" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">2</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">5+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">9 models incl. one Kindled; reinforceable to 18 per narrator. Ward 6+. Vulkyn weapons: 3 attacks, 3+/3+, Rend 1 (2 vs Monsters), Damage 1.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Vulkyn weapons" id="ff18cd2f-61b9-4db1-abfe-014463b7d11f" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">3</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">3+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">1 (2 vs Monsters)</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">1</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Blunt Their Horns and Fangs" id="6f27495a-e2d6-479a-bb3a-26bce8b46449" hidden="false">
+          <description>While this unit has any grudge marks, subtract 2 from Attacks of companion melee weapons used by enemy Monsters while they are in combat with it. Enemy Monsters in combat with this unit also cannot use rampage abilities.</description>
+        </rule>
+        <rule name="Source notes" id="cbf42d03-39e5-446d-9390-e3725e03b7e9" hidden="false">
+          <description>9 models incl. one Kindled; reinforceable to 18 per narrator. Ward 6+. Vulkyn weapons: 3 attacks, 3+/3+, Rend 1 (2 vs Monsters), Damage 1.</description>
+        </rule>
+        <rule name="Dro-master ability (name garbled)" id="769fd37e-81e0-497b-a137-523496a154ab" hidden="false">
+          <description>Pick an enemy Monster in combat with this unit and roll a die. On 3+, subtract 2 from Damage of the target’s companion weapons for the rest of the turn.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Auric Hearthguard" id="2943a319-42d9-4bd9-9652-cffec7567dcc" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="48d3eb0b-07da-4dbd-98a9-93551aa09ba8" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="60f97c16-dfc2-4642-99c8-d7f381b07660" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Auric Hearthguard" id="0e0642da-565c-4a48-8bbb-e85dc5ef66f4" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">2</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">6+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">5 models, reinforceable to 10; ward 6+. Ranged 12", 2 attacks, 4+/3+, Rend 1, Damage 1, Crit (2 Hits), can shoot in combat. Melee values unclear; Crit (2 Hits).</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Ranged weapon (name not captured)" id="c79b10db-4388-41ca-b5f4-4edd75dbd0b2" hidden="false" typeId="c34771fa-4170-418c-ba03-172ed1ba06a3" typeName="Ranged Weapon">
+          <characteristics>
+            <characteristic name="Rng" typeId="9008da00-8227-4295-9474-5e8d8ef53db1">12"</characteristic>
+            <characteristic name="Atk" typeId="e217b95a-8e11-4d1f-83c2-f3fd1ceeeb2a">2</characteristic>
+            <characteristic name="Hit" typeId="ba26751d-f1dd-4c64-a1bc-920d9772e776">4+</characteristic>
+            <characteristic name="Wnd" typeId="bc397a60-0482-4347-938e-2462eca3b43a">3+</characteristic>
+            <characteristic name="Rnd" typeId="fb21e126-8265-43de-b2b4-a46c1bcdc628">1</characteristic>
+            <characteristic name="Dmg" typeId="c4792f8d-bb30-4834-96b9-0aed53a2144a">1</characteristic>
+            <characteristic name="Ability" typeId="bb5069be-cbd1-4f74-b9d2-cd2e874ce850">Crit (2 Hits); can shoot in combat</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Melee weapon (name not captured)" id="cfbb0ab2-e8aa-428c-aaf1-e633aa43b977" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">1</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">—</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Crit (2 Hits)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Focused Eye" id="3e3c3c00-5a62-4755-943b-7ee86af44363" hidden="false">
+          <description>Add 1 to hit rolls for this unit’s shooting attacks while it has any grudge marks.</description>
+        </rule>
+        <rule name="Source notes" id="2b089446-0038-46d2-a01f-f5ab616e7480" hidden="false">
+          <description>5 models, reinforceable to 10; ward 6+. Ranged 12", 2 attacks, 4+/3+, Rend 1, Damage 1, Crit (2 Hits), can shoot in combat. Melee values unclear; Crit (2 Hits).</description>
+        </rule>
+        <rule name="Molten Rock Bolts" id="72f159b1-d647-442e-85fc-e0eaafb4a535" hidden="false">
+          <description>Pick an enemy unit that suffered damage from this unit’s shooting attacks this turn. Subtract 1 from hit rolls for the target’s attacks until the start of your next turn.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Hearthguard Berzerkers" id="f762beb2-1df1-49c9-a906-adabfd357002" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="INFANTRY" id="7a621af3-276e-4fd6-850d-f1f0b953ed78" hidden="false" primary="true" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="GRIMDRON" id="f7d30560-7000-44b2-9103-679682143508" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Hearthguard Berzerkers" id="9fe8d73a-f088-431b-970f-b83b3fa475cd" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">2</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">6+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">5 models, reinforceable to 10; ward 6+. Melee 2 attacks, 3+/3+, Rend 1, Damage 2.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Melee weapon (name not captured)" id="d4572910-f354-4d59-b422-52880d3de8bf" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">2</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">3+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">3+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">1</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Duty Unto Death" id="adca0001-f632-41ea-b583-5758c0e85b2e" hidden="false">
+          <description>While any friendly Grimdron infantry heroes are wholly within this unit’s combat range, both this unit and those heroes have a 5+ ward save.</description>
+        </rule>
+        <rule name="Source notes" id="8f0be452-9af3-4873-adbc-452a0f415ea2" hidden="false">
+          <description>5 models, reinforceable to 10; ward 6+. Melee 2 attacks, 3+/3+, Rend 1, Damage 2.</description>
+        </rule>
+        <rule name="Fury of Grimnir" id="f0144aaf-f491-45f3-8656-8178170323f9" hidden="false">
+          <description>If this unit has any grudge marks and is not in combat, it can move D6 inches. It can move through enemy combat ranges but cannot end in combat, and cannot end any further than the closest enemy unit (caption wording unclear).</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Gotrek Gurnisson" id="f7841260-ab8f-411c-9e2a-d2b7ff4412fd" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="fd818da4-1b02-4d4b-a877-948985583641" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="INFANTRY" id="205d78ac-0412-4bc5-a65b-d4c420a75874" hidden="false" primary="false" targetId="192028a0-5459-4015-878e-ad5e84da6f7e" />
+        <categoryLink name="UNIQUE" id="4f92d052-6656-4112-a502-a0a30f3d6e2a" hidden="false" primary="false" targetId="edb93ff4-c7bb-4c58-9fda-6e5bc7f08ba0" />
+      </categoryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="220" />
+      </costs>
+      <profile name="Gotrek Gurnisson" id="8c9a5f64-2425-42b7-a78d-6f2139ad674c" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">4"</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">8</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">5+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Ward 3+. Axes: 8 attacks, 2+/2+, Rend 2, Damage 3, Crit (Mortal).</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Gotrek’s axes (name garbled)" id="97deb2c1-9eab-4163-8213-4e185a97f6da" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">8</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">2+</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">2+</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">2</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">3</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">Crit (Mortal)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Indifferent and Pragmatic" id="e8da5eb3-d0ca-480f-ab01-d4d87efbf54f" hidden="false">
+          <description>This unit cannot have grudge marks and cannot be affected by ancestral vow abilities.</description>
+        </rule>
+        <rule name="Source notes" id="2994f757-c618-49b3-9adb-90f1eb4cc086" hidden="false">
+          <description>Ward 3+. Axes: 8 attacks, 2+/2+, Rend 2, Damage 3, Crit (Mortal).</description>
+        </rule>
+        <rule name="Too Stubborn to Die" id="fa57b650-fbdd-4ac8-b5d1-ba881ca818e6" hidden="false">
+          <description>The first time this unit would be destroyed before being removed from play, roll a die. On 3+, it is not destroyed and any remaining damage points have no effect. Then heal D3 damage points.</description>
+        </rule>
+        <rule name="A Glorious Doom" id="9fde60f7-d8d5-4cc4-9d1a-3e30bf213189" hidden="false">
+          <description>While this unit is in combat with enemy Heroes or Monsters, it can only pick those enemy units as targets for combat attacks. Add 2 to Attacks of its melee weapons for each such enemy Hero or Monster unit in combat with it. A unit that is both Hero and Monster counts once.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+    <selectionEntry name="Omir &amp; Ashtongue" id="bbbb2823-2561-49e1-a4cc-9c46487640c1" hidden="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink name="HERO" id="a367aebc-ba3b-4312-8368-f3e22501d525" hidden="false" primary="true" targetId="6efc7105-e25b-4f9f-bd9a-3b73075cd402" />
+        <categoryLink name="UNIQUE" id="c10da57b-87e3-45ec-95f3-fc876b47f137" hidden="false" primary="false" targetId="edb93ff4-c7bb-4c58-9fda-6e5bc7f08ba0" />
+        <categoryLink name="GRIMDRON" id="58b74e5b-dbe7-44a2-8f52-a776b4820312" hidden="false" primary="false" targetId="19b8f7a7-342a-40c2-a794-d8165d797ae0" />
+      </categoryLinks>
+      <profile name="Omir &amp; Ashtongue" id="07ec2802-8721-4a12-a117-ec6544c4961c" hidden="false" typeId="c99ca9c0-79df-4dca-a98e-ffef5dca31e7" typeName="Unit">
+        <characteristics>
+          <characteristic name="Move" typeId="f15e88a1-2a18-4ad1-9941-fbb5cf08fbd5">—</characteristic>
+          <characteristic name="Health" typeId="bb8593db-e170-49a8-af19-31519e0880d6">5 each</characteristic>
+          <characteristic name="Save" typeId="7fd7856f-6b37-4866-8041-19e4cc3686d6">5+</characteristic>
+          <characteristic name="Control" typeId="80174e08-fa10-41dd-ba11-14b56e198bcd">—</characteristic>
+          <characteristic name="Ward" typeId="6c555bcb-a905-4341-b5b3-b72c64446d83">—</characteristic>
+          <characteristic name="Notes" typeId="8951ae70-9c86-4e48-a60a-918fbd4dc0d8">Two-model hero unit. Omir weapon: 5 attacks, Damage 2; Ashtongue weapon: 3 attacks, Damage 2; other profile values unclear.</characteristic>
+        </characteristics>
+      </profile>
+      <profiles>
+        <profile name="Omir’s double-bladed axe and punch blade" id="fd761c2f-1547-4b1e-bba4-1e15260fd686" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">5</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Ashtongue’s weapon (name not captured)" id="555af29f-f1a8-40fb-b7aa-b349a31a1dcb" hidden="false" typeId="ee0f43ac-266a-4d29-97d4-6c81c03bf13e" typeName="Melee Weapon">
+          <characteristics>
+            <characteristic name="Atk" typeId="76f787d6-a96d-4739-8948-c75b036ea476">3</characteristic>
+            <characteristic name="Hit" typeId="fea51aed-f2c7-4e65-ace8-81cf296114b1">—</characteristic>
+            <characteristic name="Wnd" typeId="210a99f2-fd0f-4a1f-9518-626de4f86b78">—</characteristic>
+            <characteristic name="Rnd" typeId="de895003-0c12-41cd-9e59-a8ee6ffea077">—</characteristic>
+            <characteristic name="Dmg" typeId="d02f7c40-8cd6-44fe-bc3b-a26e37eba4e9">2</characteristic>
+            <characteristic name="Ability" typeId="670db2c4-339a-4f1c-a6a7-b50ed04195c5">—</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule name="Vulcatrix’s Fury" id="93b40748-f2fe-4f08-9a21-c6b23725c195" hidden="false">
+          <description>While this unit has any grudge marks, add 1 to Attacks of companion weapons used by visible friendly Khazalite Holds units wholly within 12 inches of this unit.</description>
+        </rule>
+        <rule name="Source notes" id="bbb827a9-96f1-4999-9521-1b6bef0f9aaa" hidden="false">
+          <description>Two-model hero unit. Omir weapon: 5 attacks, Damage 2; Ashtongue weapon: 3 attacks, Damage 2; other profile values unclear.</description>
+        </rule>
+        <rule name="Dro-master at Heart" id="ed109695-80d9-49d6-9231-632185bdecd7" hidden="false">
+          <description>Pick a visible friendly Vulkyn Flameseekers unit or Grimdron Monster unit wholly within 12 inches. If Flameseekers, until the start of your next turn the target ignores negative modifiers to hit and wound rolls for combat attacks and to its control score. If a Grimdron Monster, until the start of your next turn add 1 to hit rolls for attacks made with its companion weapons.</description>
+        </rule>
+        <rule name="Smoke and Ash" id="310b75e6-e7ec-40d9-a0db-a0fdaa83c8cc" hidden="false">
+          <description>Pick a visible enemy unit within 9 inches and roll a die. On 3+, until the start of your next turn friendly and enemy units, terrain features and manifestations are not visible to the target while they are more than 6 inches from it. Captions slightly garbled.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
+  </selectionEntries>
+  <publications>
+    <publication name="Khazalite Holds Battletome (video transcript paraphrase)" id="abd6d867-8754-4ff6-93fd-9c9ee97e2ca8" hidden="false" />
+    <publication name="Core Rules - Age of Sigmar 4th Edition" id="bd43bb0c-979a-4692-916b-b99a84dd14db" hidden="false" />
+  </publications>
+</catalogue>
